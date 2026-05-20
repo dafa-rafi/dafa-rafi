@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=dafa-rafi&label=Profile%20Views&color=7b2cbf&style=flat-square" alt="Profile Views" />
 </p>
 
-I am an **Informatics Graduate** from **Telkom University** (GPA **3.80/4.00**) with a passion for building robust software applications and exploring the depths of **Machine Learning & Data Science**. 
+I am an **Informatics Graduate** (GPA **3.80/4.00**) with a passion for building robust software applications and exploring the depths of **Machine Learning & Data Science**. 
 
 Equipped with professional English proficiency (**TOEFL ITP 607**), I combine strong logical problem-solving with a creative, design-oriented mindset. I love bridging the gap between high-performance code and elegant visual experiences!
 
@@ -112,9 +112,6 @@ Equipped with professional English proficiency (**TOEFL ITP 607**), I combine st
 - 💼 **LinkedIn:** [linkedin.com/in/dafa-rafiansyah/](https://www.linkedin.com/in/dafa-rafiansyah/)
 - 🌐 **Interactive Portfolio:** [View Portfolio Website](https://dafarafiansyah.netlify.app/)
 - 📧 **Email:** dafarafi783@gmail.com
-- 📍 **Location:** Klaten, Jawa Tengah, Indonesia
 
----
-<p align="center">
-  <i>"Combining logic and art to build next-generation applications."</i>
-</p>
+
+
