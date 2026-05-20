@@ -14,7 +14,7 @@ Equipped with professional English proficiency (**TOEFL ITP 607**), I combine st
 - 💻 **Web Engineering:** Building scalable, secure web portals and dashboards using **Laravel & ReactJS**.
 - 📱 **Mobile App Development:** Crafting beautiful, native cross-platform experiences using **Flutter & Dart**.
 - 🧠 **Machine Learning:** Training and deploying ML models, specializing in recommender systems, network analysis, and classification.
-- 🎨 **Creative Design:** Blending programming with digital art, graphic illustration, and UI/UX design (Figma).
+- 🎨 **Creative Design:** Digital art, 2D Animation, and UI/UX design (Figma).
 
 ---
 
