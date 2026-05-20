@@ -106,7 +106,6 @@ Equipped with professional English proficiency (**TOEFL ITP 607**), I combine st
 </p>
 
 ---
--
 
 ### 📬 Get in Touch!
 - 💼 **LinkedIn:** [linkedin.com/in/dafa-rafiansyah/](https://www.linkedin.com/in/dafa-rafiansyah/)
