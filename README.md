@@ -106,53 +106,11 @@ Equipped with professional English proficiency (**TOEFL ITP 607**), I combine st
 </p>
 
 ---
-
-### 💼 Highlighted Experience & Projects
-
-#### 🏢 Professional Experience
-* **Human Capital IT Support Intern @ Telkom Property** *(Nov 2025 – Present)*
-  * Built dashboards for attendance tracking and employee training management.
-  * Technologies: Laravel, ReactJS, MySQL, PostgreSQL.
-* **Mobile Programmer Intern @ PT ARM Solusi** *(Jun 2024 – Aug 2024)*
-  * Developed the "Nota Dinas Elektronik (NDE Coofis)" administrative app.
-  * Technologies: Flutter, Dart, RESTful APIs, MVC architecture.
-
-#### 🧠 Featured Projects
-* 🧠 **[Hybrid Recommender System](https://github.com/dafa-rafi/recommender-system-hybrid)**
-  * A collaborative filtering model using Autoencoder combined with sentiment analysis using RoBERTa. (Python, TensorFlow)
-* 🎫 **SiTiket — Event Ticketing Platform**
-  * A full event ticketing ecosystem built across three distinct stacks:
-    * **Web Frontend:** [Next.js & React](https://github.com/dafa-rafi/sitiket-web-frontend)
-    * **API Backend:** [Laravel 11 & MySQL](https://github.com/dafa-rafi/sitiket-api-backend)
-    * **Mobile Client:** [Flutter & Firebase](https://github.com/dafa-rafi/sitiket-flutter-mobile)
-* 🛡️ **[Malware Detection (CICMalDroid 2020)](https://github.com/dafa-rafi/ml-jawkarta-classification)**
-  * Machine learning classification models comparing Random Forest, Support Vector Machine (SVM), and Logistic Regression. (Python, Scikit-learn)
-* 🌐 **[Network Analysis & Epidemic Simulation](https://github.com/dafa-rafi/network-analysis-ajs)**
-  * Network science simulations modeling epidemic contagion (SIR Model) and calculating node centrality metrics. (Python, NetworkX)
-
----
-
-### 🎨 The Artistic Side
-When I'm not writing code, I enjoy creating **digital art and character illustrations**. I have completed the *"Character Art School: Complete Drawing Course"* on Udemy, and served as an active member of the **Design and Art Division** at Nippon Bunka-Bu TelU. I believe that beautiful code and stunning visuals go hand-in-hand!
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dafa-rafi&show_icons=true&theme=aurora&count_private=true&hide_border=true" alt="Dafa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafa-rafi&layout=compact&theme=aurora&hide_border=true&langs_count=6" alt="Dafa's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dafa-rafi&theme=aurora&hide_border=true" alt="Dafa's GitHub Streak" width="97%" />
-</p>
-
----
+-
 
 ### 📬 Get in Touch!
 - 💼 **LinkedIn:** [linkedin.com/in/dafa-rafiansyah/](https://www.linkedin.com/in/dafa-rafiansyah/)
-- 🌐 **Interactive Portfolio:** [View Portfolio Website](https://github.com/dafa-rafi/portfolio-website)
+- 🌐 **Interactive Portfolio:** [View Portfolio Website](https://dafarafiansyah.netlify.app/)
 - 📧 **Email:** dafarafi783@gmail.com
 - 📍 **Location:** Klaten, Jawa Tengah, Indonesia
 
